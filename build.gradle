@@ -1,3 +1,7 @@
+plugins {
+    id "io.franzbecker.gradle-lombok" version "3.2.0"
+}
+
 group 'cc.xpbootcamp'
 version '1.0-SNAPSHOT'
 
